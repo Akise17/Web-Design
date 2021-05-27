@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:39:44.981Z" agent="5.0 (Windows)" etag="Jwa8StA0JnbWRNRByZur" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T06:40:33.254Z" agent="5.0 (Windows)" etag="lf0PucI7nVVU2--P0JlY" version="14.7.2" type="github">
   <diagram id="JCATO2jLe-NX1DVHJRLP" name="Page-1">
     <mxGraphModel dx="3020" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XhSmzjzQN_fod3ZIW9Z4-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.lovepik.com/element/40096/6070.png_860.png;" vertex="1" parent="1">
-          <mxGeometry x="-120.5" y="440" width="319" height="319" as="geometry" />
+          <mxGeometry x="-120.5" y="444" width="319" height="319" as="geometry" />
         </mxCell>
         <mxCell id="XhSmzjzQN_fod3ZIW9Z4-3" value="Karawan menuntut Gaji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="-329.99999999999994" y="776" width="350" height="40" as="geometry" />
